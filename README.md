@@ -11,8 +11,8 @@ DIGIMON GO
 8. Images are in the Assets directory
 9. Style your html document to match the mockups using your styles.css
 
-'''
+```
 Fonts are: 
 - Lato
 - Silom
-'''
+```
