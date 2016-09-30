@@ -27,8 +27,13 @@ body{
 }
 
 .talkie {
-  float: left;
   border-radius: 10px;
+  border: 3px solid gray;
+  padding: 2% ;
+  display: grid | inline-grid;
+  width: 25%;
+  float: left;
+  margin: 10px;
 }
 
 .hero {
@@ -42,11 +47,21 @@ body{
 .rawrxd {
   border-radius: 10px;
   border: 3px solid gray;
-  padding: 25px;
+  padding: 2% ;
+  display: grid | inline-grid;
+  width: 25%;
   float: left;
+  margin: 10px;
+  box-shadow: 2px 2px 1px gray;
+
 }
 
 h2 {
   color: #0E588D;
   border-bottom: 3px solid lightgray;
+}
+
+.copyright {
+  color: white;
+  padding: 1%;
 }
